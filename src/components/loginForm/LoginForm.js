@@ -3,7 +3,7 @@ import '../loginForm/Login.css'
 
 export default function LoginForm() {
   return (
-    <div>
+    
 
 <div class="wrapper">
     <form action="">
@@ -28,6 +28,6 @@ export default function LoginForm() {
   </div>
 
 
-    </div>
+    
   )
 }
