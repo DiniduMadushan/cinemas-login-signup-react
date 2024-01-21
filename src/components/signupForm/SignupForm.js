@@ -3,7 +3,7 @@ import '../signupForm/signupForm.css'
 
 export default function SignupForm() {
   return (
-    <div>
+    <div id="signupPageBody">
         <div class="wrapper">
     <form action="">
       <h1>Sign Up</h1>

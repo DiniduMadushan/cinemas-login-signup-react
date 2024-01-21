@@ -4,6 +4,7 @@ import '../loginForm/Login.css'
 export default function LoginForm() {
   return (
     
+<div id="loginPageBody">
 
 <div class="wrapper">
     <form action="">
@@ -27,7 +28,7 @@ export default function LoginForm() {
     </form>
   </div>
 
-
+  </div>
     
   )
 }
